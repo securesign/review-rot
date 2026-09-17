@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T19:08:41.334444563Z",
+  "generated_at": "2026-09-17T19:35:06.035321116Z",
   "ui_settings": {
     "title": "Securesign Review Rot",
     "logo": "images/logo.svg",
@@ -7087,7 +7087,7 @@
   ],
   "leaderboard": {
     "window_days": 90,
-    "since": "2026-06-19T19:07:24Z",
+    "since": "2026-06-19T19:33:54Z",
     "reviewers": [
       {
         "login": "osmman",
