@@ -39,7 +39,7 @@ jobs:
           go build -o review-rot ./cmd/review-rot
           ./review-rot --config-dir=config --output=web/data.json
         env:
-          GITHUB_PRIVATE_KEY: ${{ secrets.EC_AUTOMATION_KEY }}
+          GITHUB_PRIVATE_KEY: ${{ secrets.REVIEW_ROT_AUTOMATION_KEY }}
 
       - name: Copy frontend files
         run: cp -r frontend/* web/
