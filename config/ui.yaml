@@ -3,15 +3,15 @@ title: Securesign Review Rot
 
 # Path to logo image, relative to the frontend directory.
 # Remove or leave empty to hide the logo.
-logo: images/logo.svg
+logo: images/RHTAS-Logo.svg
 
 # Path to favicon, relative to the frontend directory.
 # Remove or leave empty for no favicon.
-favicon: images/favicon.ico
+favicon: images/redhat-fedora-icon.svg
 
 # Accent colors for the dashboard theme.
 # These override the neutral defaults in the CSS.
 palette:
-  accent: "#785fa9"
-  accent_dark: "#634f8b"
-  accent_light: "#f0ecf5"
+  accent: "#CC0000"        # Darker red
+  accent_dark: "#2C2C2C"   # Dark grey (almost black)
+  accent_light: "#FFF0F0"  # Very light red/pink for backgrounds
